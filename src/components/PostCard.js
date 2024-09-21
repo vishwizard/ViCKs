@@ -18,7 +18,7 @@ export default function PostCard() {
       </div>
       <div >
         <p className='my-3 text-sm'>
-          "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good. Do not weep for the past, do not worry for the future. Focus on the present moment."
+          Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good. Do not weep for the past, do not worry for the future. Focus on the present moment.
           — Bhagavad Gita, Chapter 2, Verse 47
         </p>
         <img src='/2.jpg'></img>
