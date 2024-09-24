@@ -4,7 +4,7 @@ import Avatar from './Avatar'
 import ClickOutHandler from 'react-clickout-handler';
 import { useState } from 'react'
 import Link from 'next/link';
-
+ 
 export default function PostCard() {
   const [Open, setOpen] = useState(false);
   const Element = "mt-1 flex gap-3 py-2 hover:scale-105 hover:bg-socialBlue hover:text-white -mx-4 p-4  hover:shadow-md shadow-gray-300 rounded-md transition-all ";
